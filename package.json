@@ -1,0 +1,28 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Create rest API of a Todo List",
+  "main": "./Todo-listapp.js",
+  "scripts": {
+    "start": "nodemon --inspect app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nama3k67/Todo-List.git"
+  },
+  "keywords": [
+    "express",
+    "mongoDB",
+    "restAPI"
+  ],
+  "author": "NamTran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nama3k67/Todo-List/issues"
+  },
+  "homepage": "https://github.com/nama3k67/Todo-List#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
