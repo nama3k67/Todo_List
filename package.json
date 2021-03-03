@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nama3k67/Todo-List.git"
+    "url": "git+https://github.com/nama3k67/Todo_List.git"
   },
   "keywords": [
     "express",
@@ -19,9 +19,9 @@
   "author": "NamTran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nama3k67/Todo-List/issues"
+    "url": "https://github.com/nama3k67/Todo_List/issues"
   },
-  "homepage": "https://github.com/nama3k67/Todo-List#readme",
+  "homepage": "https://github.com/nama3k67/Todo_List#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
